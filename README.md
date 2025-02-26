@@ -21,6 +21,17 @@
 * Wishlist & Cart System for a personalized shopping experience.
 * Offline Detection using React Detect Offline to handle connectivity issues.
 
+# 📄 Pages
+* Home Page 🏠 – Displays featured products, categories, and offers.
+* Brands Page 🏷️ – Showcases different brands available in the store.
+* Categories Page 📂 – Lists products by category for easy navigation.
+* Wishlist Page 💖 – Allows users to save their favorite products.
+* Cart Page 🛒 – Displays selected products before checkout.
+* Orders Page 📦 – Shows user order history and order details.
+* Login & Register Pages 🔐 – Handles user authentication and account creation.
+* Product Details Page 🔍 – Provides detailed information about each product.
+* 404 Page ❌ – Displays when users navigate to an invalid URL.
+
 # 🛠 Technologies & Libraries
 * Frontend: React, Tailwind CSS
 * State Management: React Query

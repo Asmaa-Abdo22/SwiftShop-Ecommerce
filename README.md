@@ -41,6 +41,4 @@
 * Authentication: JWT-Decode
 * UI Enhancements: FontAwesome, React Spinners, Swiper
 
-# 🎯 Future Enhancements
-* Password Reset Feature: Users will be able to reset their passwords if they forget them.
-* Light and Dark Mode Support
+

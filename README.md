@@ -4,7 +4,7 @@
 🚀 SwiftShop is a fully functional e-commerce application built with React and Tailwind CSS, offering a smooth and engaging shopping experience.
 
 # ScreenShot :
-![SwiftShop Screenshot](https://github.com/user-attachments/assets/0229a01a-1ab0-4c40-bb72-2fd3c3931b69)
+![SwiftShop Screenshot](https://github.com/user-attachments/assets/448eef47-be20-4f4d-81db-e33bc2117da9)
 
 ### 🔗 Live Demo  
 [🚀 SwiftShop Ecommerce - Live Demo](https://asmaa-abdo22.github.io/SwiftShop-Ecommerce/)  

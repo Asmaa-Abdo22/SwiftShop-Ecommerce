@@ -2,13 +2,10 @@
   "name": "ecommercetailwind",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Asmaa-Abdo22.github.io/SwiftShop-Ecommerce",
 
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist",
+    "dev": "vite", 
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"

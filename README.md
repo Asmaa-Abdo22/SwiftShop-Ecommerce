@@ -7,7 +7,7 @@
 ![SwiftShop Screenshot](https://github.com/user-attachments/assets/448eef47-be20-4f4d-81db-e33bc2117da9)
 
 ### 🔗 Live Demo  
-[🚀 SwiftShop Ecommerce - Live Demo](https://asmaa-abdo22.github.io/SwiftShop-Ecommerce/)  
+[🚀 SwiftShop Ecommerce - Live Demo](https://swift-shop-ecommerce.vercel.app/)  
 
 # ✨ Features 
 * Authentication & Authorization: Secure user authentication with JWT and protected routes to ensure only authorized users can access certain pages.
